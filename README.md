@@ -1,2 +1,2 @@
 # Competitive-Programmer-s-Handbook
---A good starting for competitive programming--
+--A Good Starting For Competitive Programming--
